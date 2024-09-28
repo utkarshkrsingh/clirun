@@ -26,7 +26,7 @@ OR
 yay -S clirun    # If you use yay
 ```
 ## Demo for Ubuntu
-[![Clirun Demo](/cli.mp4)
+https://github.com/user-attachments/assets/39f06b86-aa7a-4c2f-9cbe-aa4fe0cd3cb7
 ### To manually install clirun on `Ubuntu`:
 1. Clone the repository:
 ```bash
