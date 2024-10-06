@@ -2,7 +2,7 @@
 
 `clirun` is a simple tool to monitor and compile C/C++ files in the specified directory.
 
-## Demo for AUR
+## Demo
 [![Clirun Demo](https://github.com/utkarshkrsingh/clirun/assets/72470310/f13cb1b1-0c98-4259-b5b8-907785e2020b)](https://github.com/utkarshkrsingh/clirun/assets/72470310/f13cb1b1-0c98-4259-b5b8-907785e2020b)
 ## Usage:
 Note: Clirun only supports `c` and `cpp` right now.
@@ -25,9 +25,7 @@ OR
 ```bash
 yay -S clirun    # If you use yay
 ```
-## Demo for Ubuntu
-https://github.com/user-attachments/assets/39f06b86-aa7a-4c2f-9cbe-aa4fe0cd3cb7
-### To manually install clirun on `Ubuntu`:
+### For Ubuntu-based distributions :
 1. Clone the repository:
 ```bash
 git clone https://github.com/utkarshkrsingh/clirun.git
