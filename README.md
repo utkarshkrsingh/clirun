@@ -47,4 +47,4 @@ sudo make install
 You can now run clirun from any directory.
 ## Support:
 
-If you encounter any bugs or errors, feel free to fork this repository and modify it to suit your needs. Contributions and feedback are always welcome!
+If you encounter any bug or error feel free to fork this repo and modify as per your taste.
